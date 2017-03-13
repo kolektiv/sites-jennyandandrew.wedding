@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:http://www.icalmaker.com
 BEGIN:VEVENT
 UID:http://www.icalmaker.com/event/2a9f184f-9839-4795-8d9b-641a9208b056
-DTSTAMP:20160922T160835Z
+DTSTAMP:20170318T120000Z
 DTSTART:20170318T120000Z
-DTEND:20160922T233000Z
+DTEND:20170318T230000Z
 SUMMARY:Wedding of Jenny Stringer and Andrew Cherry
 LOCATION:The Star Inn, Alfriston, East Sussex
 DESCRIPTION:Please join us at our Wedding!
